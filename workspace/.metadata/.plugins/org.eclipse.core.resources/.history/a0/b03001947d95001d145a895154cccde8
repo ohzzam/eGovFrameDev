@@ -1,0 +1,15 @@
+package egovframework.example.sample.service.impl;
+
+import egovframework.example.sample.service.DeptService;
+import egovframework.example.sample.service.DeptVo;
+
+public class DeptServiceImpl implements DeptService {
+
+	@Override
+	public String InsertDept(DeptVo vo) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+}

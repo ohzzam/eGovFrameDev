@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="C-_Apache24_Apache9.0_apache-tomcat-9.0.55" id-set\="true" location\="C\:/Apache24/Apache9.0/apache-tomcat-9.0.55" name\="apache-tomcat-9.0.55" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.90" timestamp\="0" vm-install-id\="1673400302665" vm-install-type-id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType"/>\r\n  <runtime id\="C-_Apache24" id-set\="true" location\="C\:/Apache24/htdocs" name\="Apache24" runtime-type-id\="org.eclipse.wst.server.http.runtime" timestamp\="0"/>\r\n</runtimes>\r\n
