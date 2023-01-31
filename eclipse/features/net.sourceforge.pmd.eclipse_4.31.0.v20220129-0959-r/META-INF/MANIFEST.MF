@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Created-By: Maven Archiver 3.5.0
+
+Name: feature.xml
+SHA-256-Digest: GULZftMS3DJK9b3CJuZdQpZaDVN1QDBSwyzbaIAGTaA=
+
+Name: feature.properties
+SHA-256-Digest: NEZwk7w2w1jEeZjt92kz88UW6owvbcNcyPhpF5Y30Gw=
+
+Name: pmd_logo_small.jpg
+SHA-256-Digest: 3kNLhSMVbX6T9ftx8m5wf/wZAxOS/SL3GHC0MxCF57E=
+

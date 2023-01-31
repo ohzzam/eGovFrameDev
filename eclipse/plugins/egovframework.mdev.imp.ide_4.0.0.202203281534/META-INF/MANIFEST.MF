@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: eGovFramework Mobile IDE
+Bundle-SymbolicName: egovframework.mdev.imp.ide;singleton:=true
+Bundle-Version: 4.0.0.202203281534
+Bundle-Activator: egovframework.mdev.imp.ide.EgovMobileIdePlugin
+Require-Bundle: org.eclipse.ui.ide;bundle-version="3.14.0",org.eclipse.j
+ dt.ui;bundle-version="3.14.0",org.eclipse.jdt.core;bundle-version="3.14
+ .0",org.eclipse.jdt.launching;bundle-version="3.10.0",org.eclipse.wst.c
+ ommon.frameworks.ui;bundle-version="1.2.400",org.eclipse.wst.web;bundle
+ -version="1.2.0",org.eclipse.wst.common.project.facet.ui;bundle-version
+ ="1.4.601",org.eclipse.jst.j2ee.web;bundle-version="1.1.911",org.eclips
+ e.ui.console;bundle-version="3.8.0",org.eclipse.debug.ui;bundle-version
+ ="3.13.0",org.eclipse.jst.j2ee;bundle-version="1.2.301",org.eclipse.jst
+ .common.project.facet.core;bundle-version="1.6.0",org.eclipse.core.file
+ system;bundle-version="1.7.100",org.eclipse.equinox.p2.ui;bundle-versio
+ n="2.5.100",org.eclipse.equinox.p2.core;bundle-version="2.5.0",org.ecli
+ pse.equinox.p2.operations;bundle-version="2.5.0",org.eclipse.equinox.p2
+ .metadata;bundle-version="2.4.0",org.eclipse.search;bundle-version="3.1
+ 1.200",org.eclipse.core.runtime;bundle-version="3.14.0",org.eclipse.equ
+ inox.p2.repository;bundle-version="2.4.0",org.eclipse.equinox.p2.engine
+ ;bundle-version="2.6.0",egovframework.dev.imp.core;bundle-version="4.0.
+ 0",org.eclipse.core.resources;bundle-version="3.13.0",org.eclipse.wst.s
+ erver.ui;bundle-version="1.5.401",org.eclipse.m2e.core;bundle-version="
+ 1.9.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ClassPath: egovframework-mdev-imp-ide.jar,lib/ant-1.6.1.jar,lib/j
+ axb-xalan-1.5.jar
+Import-Package: org.apache.commons.logging
+Bundle-Vendor: MOIS
+Export-Package: egovframework.mdev.imp.ide; uses:="org.eclipse.swt.graph
+ ics,  org.osgi.framework,  org.eclipse.ui.plugin,  org.eclipse.core.res
+ oureces,  org.eclipse.jface.resource,  org.eclipse.swt.widgets,  org.ec
+ lipse.ui",egovframework.mdev.imp.ide.common,egovframework.mdev.imp.ide.
+ natures,egovframework.mdev.imp.ide.wizards,egovframework.mdev.imp.ide.w
+ izards.examples,egovframework.mdev.imp.ide.wizards.model,egovframework.
+ mdev.imp.ide.wizards.operation,egovframework.mdev.imp.ide.wizards.pages
+Automatic-Module-Name: egovframework.mdev.imp.ide
+
+

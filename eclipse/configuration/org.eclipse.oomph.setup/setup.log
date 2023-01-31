@@ -1,0 +1,325 @@
+[2022-02-17 17:31:42] Executing startup tasks
+[2022-02-17 17:31:42] OpenJDK Runtime Environment 15.0.2+7-27
+[2022-02-17 17:31:42] Product self.product.version
+[2022-02-17 17:31:42] Workspace D:\eGovFrameDev-4.0.0-64bit\workspace
+[2022-02-17 17:31:42] Bundle org.eclipse.oomph.setup 1.19.0.v20210223-0655, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2022-02-17 17:31:42] Bundle org.eclipse.oomph.setup.core 1.19.0.v20210221-1019, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2022-02-17 17:31:42] Bundle org.eclipse.oomph.setup.p2 1.16.0.v20200814-1205, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2022-02-17 17:31:42] Performing Preference /instance/org.eclipse.ui.workbench/resourcetypes = <?xml version="1.0" encoding="UTF-8"?>...
+[2022-02-17 17:31:42] <?xml version="1.0" encoding="UTF-8"?>
+<editors version="3.1">
+<info extension="yaml" name="*">
+<editor id="org.dadacoalition.yedit.editor.YEdit"/>
+</info>
+<info extension="config" name="*">
+<editor id="egovframework.rte.rdt.plugin.rdtEditor"/>
+</info>
+<info extension="html" name="*">
+<editor id="org.eclipse.ui.browser.editorSupport"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="tagx" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="java" name="module-info">
+<editor id="org.eclipse.jdt.ui.ModuleInfoEditor"/>
+<defaultEditor id="org.eclipse.jdt.ui.ModuleInfoEditor"/>
+</info>
+<info extension="gradle" name="*">
+<editor id="org.eclipse.buildship.ui.gradlebuildscripteditor"/>
+</info>
+<info extension="xml" name="pom">
+<editor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+<defaultEditor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+</info>
+<info extension="ddl" name="*">
+<editor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+</info>
+<info extension="sqlpage" name="*">
+<editor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+</info>
+<info extension="xhtml" name="*">
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="shtml" name="*">
+<editor id="org.eclipse.ui.browser.editorSupport"/>
+</info>
+<info extension="workingsets" name="*">
+<editor id="org.eclipse.oomph.workingsets.presentation.WorkingSetsEditorID"/>
+</info>
+<info extension="class" name="module-info">
+<editor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditor"/>
+<defaultEditor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditor"/>
+</info>
+<info extension="server" name="*">
+<editor id="org.eclipse.wst.server.ui.editor"/>
+</info>
+<info extension="chromium" name="*">
+<editor id="org.eclipse.wst.jsdt.chromium.debug.ui.editors.JsEditor"/>
+<defaultEditor id="org.eclipse.wst.jsdt.chromium.debug.ui.editors.JsEditor"/>
+</info>
+<info extension="acd" name="*">
+<editor id="net.java.amateras.uml.activitydiagram.ActivityDiagramEditor"/>
+</info>
+<info extension="js" name="*">
+<editor id="JavaScript File"/>
+</info>
+<info extension="jsf" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="sqd" name="*">
+<editor id="net.java.amateras.uml.sequencediagram.SequenceDiagramEditor"/>
+<defaultEditor id="net.java.amateras.uml.sequencediagram.SequenceDiagramEditor"/>
+</info>
+<info extension="jsp" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="jspf" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="jardesc" name="*">
+<editor id="org.eclipse.jdt.ui.JARDescEditor"/>
+<defaultEditor id="org.eclipse.jdt.ui.JARDescEditor"/>
+</info>
+<info extension="xsl" name="*">
+<editor id="org.eclipse.wst.xsl.ui.XSLEditor"/>
+</info>
+<info extension="xslt" name="*">
+<editor id="org.eclipse.wst.xsl.ui.XSLEditor"/>
+</info>
+<info extension="pom" name="*">
+<editor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+<defaultEditor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+</info>
+<info extension="sql" name="*">
+<editor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<editor id="org.eclipse.datatools.sqltools.sqlbuilder"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlbuilder"/>
+</info>
+<info extension="jspx" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="tag" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="cld" name="*">
+<editor id="net.java.amateras.uml.classdiagram.ClassDiagramEditor"/>
+<defaultEditor id="net.java.amateras.uml.classdiagram.ClassDiagramEditor"/>
+</info>
+<info extension="setup" name="*">
+<editor id="org.eclipse.oomph.setup.presentation.SetupEditorID"/>
+</info>
+<info extension="yml" name="*">
+<editor id="org.dadacoalition.yedit.editor.YEdit"/>
+</info>
+<info extension="ucd" name="*">
+<editor id="net.java.amateras.uml.usecasediagram.UsecaseDiagramEditor"/>
+</info>
+<info extension="class without source" name="*">
+<editor id="org.eclipse.jdt.ui.ClassFileEditorNoSource"/>
+</info>
+<info extension="erd" name="*">
+<editor id="net.java.amateras.db.editor1"/>
+<defaultEditor id="net.java.amateras.db.editor1"/>
+</info>
+<info extension="exec" name="*">
+<editor id="org.eclipse.eclemma.ui.editors.executiondata"/>
+</info>
+<info extension="class without source" name="module-info">
+<editor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditorNoSource"/>
+<defaultEditor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditorNoSource"/>
+</info>
+<info extension="tagf" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="htm" name="*">
+<editor id="org.eclipse.ui.browser.editorSupport"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="jpage" name="*">
+<editor id="org.eclipse.jdt.debug.ui.SnippetEditor"/>
+</info>
+<info extension="properties" name="*">
+<editor id="jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor"/>
+<defaultEditor id="jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor"/>
+</info>
+<info extension="properties" name="sample">
+<editor id="org.eclipse.pde.ui.sampleEditor"/>
+<defaultEditor id="org.eclipse.pde.ui.sampleEditor"/>
+</info>
+</editors>
+[2022-02-17 17:31:44] 
+[2022-02-17 17:52:04] Executing startup tasks
+[2022-02-17 17:52:04] OpenJDK Runtime Environment 15.0.2+7-27
+[2022-02-17 17:52:04] Product self.product.version
+[2022-02-17 17:52:04] Workspace D:\eGovFrameDev-4.0.0-64bit\workspace
+[2022-02-17 17:52:04] Bundle org.eclipse.oomph.setup 1.19.0.v20210223-0655, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2022-02-17 17:52:04] Bundle org.eclipse.oomph.setup.core 1.19.0.v20210221-1019, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2022-02-17 17:52:04] Bundle org.eclipse.oomph.setup.p2 1.16.0.v20200814-1205, build=5032, branch=de1d74a6bf3addd102f8a873eabac293fbeaa3ad
+[2022-02-17 17:52:04] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 88000
+[2022-02-17 17:52:04] Performing Preference /instance/org.eclipse.debug.ui/Console.limitConsoleOutput = false
+[2022-02-17 17:52:04] Performing Preference /instance/org.eclipse.ui.browser/browser-choice = 1
+[2022-02-17 17:52:04] Performing Preference /instance/org.eclipse.ui.browser/browsers = <?xml version="1.0" encoding="UTF-8"?>...
+[2022-02-17 17:52:04] <?xml version="1.0" encoding="UTF-8"?>
+<web-browsers current="3">
+<system/>
+<external location="C:\Program Files\Internet Explorer\iexplore.exe" name="Internet Explorer"/>
+<external location="C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" name="Microsoft Edge"/>
+<external location="C:\Program Files\Google\Chrome\Application\chrome.exe" name="Chrome"/>
+</web-browsers>
+[2022-02-17 17:52:04] Performing Preference /instance/org.eclipse.ui.workbench/resourcetypes = <?xml version="1.0" encoding="UTF-8"?>...
+[2022-02-17 17:52:04] <?xml version="1.0" encoding="UTF-8"?>
+<editors version="3.1">
+<info extension="yaml" name="*">
+<editor id="org.dadacoalition.yedit.editor.YEdit"/>
+</info>
+<info extension="config" name="*">
+<editor id="egovframework.rte.rdt.plugin.rdtEditor"/>
+</info>
+<info extension="html" name="*">
+<editor id="org.eclipse.ui.browser.editorSupport"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="tagx" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="java" name="module-info">
+<editor id="org.eclipse.jdt.ui.ModuleInfoEditor"/>
+<defaultEditor id="org.eclipse.jdt.ui.ModuleInfoEditor"/>
+</info>
+<info extension="gradle" name="*">
+<editor id="org.eclipse.buildship.ui.gradlebuildscripteditor"/>
+</info>
+<info extension="xml" name="pom">
+<editor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+<defaultEditor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+</info>
+<info extension="ddl" name="*">
+<editor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+</info>
+<info extension="sqlpage" name="*">
+<editor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+</info>
+<info extension="xhtml" name="*">
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="shtml" name="*">
+<editor id="org.eclipse.ui.browser.editorSupport"/>
+</info>
+<info extension="workingsets" name="*">
+<editor id="org.eclipse.oomph.workingsets.presentation.WorkingSetsEditorID"/>
+</info>
+<info extension="class" name="module-info">
+<editor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditor"/>
+<defaultEditor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditor"/>
+</info>
+<info extension="server" name="*">
+<editor id="org.eclipse.wst.server.ui.editor"/>
+</info>
+<info extension="chromium" name="*">
+<editor id="org.eclipse.wst.jsdt.chromium.debug.ui.editors.JsEditor"/>
+<defaultEditor id="org.eclipse.wst.jsdt.chromium.debug.ui.editors.JsEditor"/>
+</info>
+<info extension="acd" name="*">
+<editor id="net.java.amateras.uml.activitydiagram.ActivityDiagramEditor"/>
+</info>
+<info extension="js" name="*">
+<editor id="JavaScript File"/>
+</info>
+<info extension="jsf" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="sqd" name="*">
+<editor id="net.java.amateras.uml.sequencediagram.SequenceDiagramEditor"/>
+<defaultEditor id="net.java.amateras.uml.sequencediagram.SequenceDiagramEditor"/>
+</info>
+<info extension="jsp" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="jspf" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="jardesc" name="*">
+<editor id="org.eclipse.jdt.ui.JARDescEditor"/>
+<defaultEditor id="org.eclipse.jdt.ui.JARDescEditor"/>
+</info>
+<info extension="xsl" name="*">
+<editor id="org.eclipse.wst.xsl.ui.XSLEditor"/>
+</info>
+<info extension="xslt" name="*">
+<editor id="org.eclipse.wst.xsl.ui.XSLEditor"/>
+</info>
+<info extension="pom" name="*">
+<editor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+<defaultEditor id="org.eclipse.m2e.editor.MavenPomEditor"/>
+</info>
+<info extension="sql" name="*">
+<editor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<editor id="org.eclipse.datatools.sqltools.sqlbuilder"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor"/>
+<defaultEditor id="org.eclipse.datatools.sqltools.sqlbuilder"/>
+</info>
+<info extension="jspx" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="tag" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="cld" name="*">
+<editor id="net.java.amateras.uml.classdiagram.ClassDiagramEditor"/>
+<defaultEditor id="net.java.amateras.uml.classdiagram.ClassDiagramEditor"/>
+</info>
+<info extension="setup" name="*">
+<editor id="org.eclipse.oomph.setup.presentation.SetupEditorID"/>
+</info>
+<info extension="yml" name="*">
+<editor id="org.dadacoalition.yedit.editor.YEdit"/>
+</info>
+<info extension="ucd" name="*">
+<editor id="net.java.amateras.uml.usecasediagram.UsecaseDiagramEditor"/>
+</info>
+<info extension="class without source" name="*">
+<editor id="org.eclipse.jdt.ui.ClassFileEditorNoSource"/>
+</info>
+<info extension="erd" name="*">
+<editor id="net.java.amateras.db.editor1"/>
+<defaultEditor id="net.java.amateras.db.editor1"/>
+</info>
+<info extension="exec" name="*">
+<editor id="org.eclipse.eclemma.ui.editors.executiondata"/>
+</info>
+<info extension="class without source" name="module-info">
+<editor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditorNoSource"/>
+<defaultEditor id="org.eclipse.jdt.ui.ModuleInfoClassFileEditorNoSource"/>
+</info>
+<info extension="tagf" name="*">
+<editor id="org.eclipse.jst.jsp.core.jspsource.source"/>
+</info>
+<info extension="htm" name="*">
+<editor id="org.eclipse.ui.browser.editorSupport"/>
+<editor id="org.eclipse.jst.pagedesigner.PageDesignerEditor"/>
+</info>
+<info extension="jpage" name="*">
+<editor id="org.eclipse.jdt.debug.ui.SnippetEditor"/>
+</info>
+<info extension="properties" name="*">
+<editor id="jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor"/>
+<defaultEditor id="jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor"/>
+</info>
+<info extension="properties" name="sample">
+<editor id="org.eclipse.pde.ui.sampleEditor"/>
+<defaultEditor id="org.eclipse.pde.ui.sampleEditor"/>
+</info>
+</editors>
+[2022-02-17 17:52:04] 

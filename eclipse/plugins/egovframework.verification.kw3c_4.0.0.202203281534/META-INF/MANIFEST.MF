@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: eGovFramework Mobile Kw3c
+Bundle-SymbolicName: egovframework.verification.kw3c;singleton:=true
+Bundle-Version: 4.0.0.202203281534
+Bundle-Activator: egovframework.dev.kw3c.Kw3cPlugin
+Require-Bundle: org.eclipse.ui;bundle-version="3.109.100",org.eclipse.co
+ re.runtime;bundle-version="3.14.0",egovframework.dev.imp.core;bundle-ve
+ rsion="4.0.0",egovframework.dev.imp.ide;bundle-version="4.0.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-Vendor: MOIS
+Automatic-Module-Name: egovframework.verification.kw3c
+
+

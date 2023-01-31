@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.5.0
+Build-Jdk-Spec: 11
+
+Name: build.properties
+SHA-256-Digest: KM0cRCn7EJYIk3FhST2MI8pg6yUazpRBkV30A0KkQpg=
+
+Name: epl-v10.html
+SHA-256-Digest: KwSkghRfq1oZ951+Nb26aX16/4N7Vw4IA/M0NPVCpv8=
+
+Name: feature.xml
+SHA-256-Digest: 599ZPgsywohgTmw/DZm5Xab7lctmahlbsFGYhJYh+Cw=
+
+Name: META-INF/maven/org.springframework.ide.eclipse/org.springframework
+ .ide.eclipse.boot.dash.feature/pom.properties
+SHA-256-Digest: idnHvUmfh7GYX5+M5cAgPyAtCZBsw9NyANNQT0OzN+o=
+
+Name: feature.properties
+SHA-256-Digest: 0+RfipZdrelvgPHAjDDPxsDQcc4zI/NznpI/91pSqEk=
+
+Name: .project
+SHA-256-Digest: kfK5jP9YPie/z3mR04unvtomNtUIewwAXJHXnBh2s+o=
+
+Name: META-INF/maven/org.springframework.ide.eclipse/org.springframework
+ .ide.eclipse.boot.dash.feature/pom.xml
+SHA-256-Digest: PDnilbOghrtZtrnI2a5zHS6q39zbyd/ddzQznCo5eK8=
+

@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.9
+Created-By: 15.0.1+9 (Oracle Corporation)
+Bundle-ManifestVersion: 2
+Bundle-Name: Lombok Agent
+Bundle-SymbolicName: org.projectlombok.agent
+Bundle-Version: 1.18.22
+Automatic-Module-Name: org.projectlombok.agent
+
+Name: META-INF/p2.inf
+SHA-256-Digest: 10djS/1QxlpNiQSSUqmDaEfpGTLqBJq+31inNBYL1N8=
+
+Name: lombok.jar
+SHA-256-Digest: 7O8VgUEdeoLMBCgWZ+4LrF18ClqudM/DhDA5bJHDGDE=
+

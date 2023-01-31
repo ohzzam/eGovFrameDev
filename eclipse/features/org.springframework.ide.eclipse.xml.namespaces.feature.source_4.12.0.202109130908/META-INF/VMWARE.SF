@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+Created-By: 11.0.12 (Eclipse Foundation)
+SHA-256-Digest-Manifest: sGTBpvA6Ke5WlWSSmASnQGEl2Cev4okX7IKrb/1wLU0=
+SHA-256-Digest-Manifest-Main-Attributes: VY78hpPLQQcQWsSBC6hJVVQI+2YQxvr
+ V/A0xv/y73/0=
+
+Name: build.properties
+SHA-256-Digest: iORX1confZQg41CiXOv1Da7hPYJYJNDziQI6DGkbaCQ=
+
+Name: epl-v10.html
+SHA-256-Digest: Thq/SR3rg/TMRgiBCNosjL4u+fjDsFY+SpVxkesuUr4=
+
+Name: feature.xml
+SHA-256-Digest: ePShVWx0bqdnDqlgqZ5kMzKFWraxv56LKO1vy727BsA=
+
+Name: META-INF/maven/org.springframework.ide.eclipse/org.springframework
+ .ide.eclipse.xml.namespaces.feature/pom.xml
+SHA-256-Digest: dQ3thcQk4sYuHbcwfPxt2ZqyFB9c1+i/acgReTFlKaE=
+
+Name: META-INF/maven/org.springframework.ide.eclipse/org.springframework
+ .ide.eclipse.xml.namespaces.feature/pom.properties
+SHA-256-Digest: KWoYlFd65m0hoO1cU38Rpe2FeTy7fmOUiWDsrxaH1bw=
+
+Name: feature.properties
+SHA-256-Digest: 00WA79HZlKjsmYUV8WUVdyU2B5jP5tn+DpZfqzm5jh4=
+
+Name: .project
+SHA-256-Digest: AD0i9O39X1RO8HsRsAHgd4B/v8HPzSoGCkSKqXX31Uw=
+

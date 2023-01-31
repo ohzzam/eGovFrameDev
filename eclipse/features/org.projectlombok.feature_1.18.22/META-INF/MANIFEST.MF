@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 15.0.1 (N/A)
+
+Name: feature.xml
+SHA-256-Digest: xufmBNf3lTHebsMmEFJ80YUgN812VyPH64j121ZxxIA=
+
